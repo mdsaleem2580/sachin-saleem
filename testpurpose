@@ -1,0 +1,6 @@
+#!/bin/bash
+
+$1=name
+$2=sub
+
+echo "hellow my name is $1 i lone $2"
